@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Interactive Top Wave Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,11,12,13,14&height=180&section=header&text=✦%20LARENCE%20PINTO%20✦&fontSize=38&fontColor=ffffff&fontAlignY=35&animation=twinkle" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:2a1b4e,100:6e40c9&height=220&section=header&text=Hi,%20I'm%20Larence%20Pinto%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
 
   <!-- DYNAMIC NEON TYPING SYSTEM NOTIFICATION (YELLOW WITH BLACK BORDER) -->
   <a href="https://git.io/typing-svg">
