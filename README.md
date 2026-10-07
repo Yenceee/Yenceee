@@ -12,11 +12,11 @@
 
 <br />
 
-<!-- DUAL VISUAL ANIMATION SHOWCASE (TENOR DIRECT GIFS) -->
+<!-- DUAL VISUAL ANIMATION SHOWCASE -->
 <p align="center">
-  <img src="https://media1.tenor.com/m/XNqXj9_wW3kAAAAC/solo-leveling-jin-woo.gif" width="48%" style="border-radius: 10px; object-fit: cover;" />
+  <img width="48%" alt="solo-leveling" src="https://github.com/user-attachments/assets/13f3fc2a-bef5-4797-a7ac-d7e4dba99654" style="border-radius: 10px; object-fit: cover;" />
   &nbsp;
-  <img src="https://media1.tenor.com/m/D7p2j4_uG9YAAAAC/rinnegan-sasuke-uchiha.gif" width="48%" style="border-radius: 10px; object-fit: cover;" />
+  <img width="48%" alt="sasuke-uchiha-sasuke" src="https://github.com/user-attachments/assets/961d082a-da82-4f50-a59e-29298c21c8e4" style="border-radius: 10px; object-fit: cover;" />
 </p>
 
 <br />
