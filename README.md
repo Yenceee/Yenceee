@@ -33,9 +33,8 @@
 
 ---
 
-### 🚀 Featured Deployments (Vercel)
+### 🚀 Featured Projects
 
-- 🛡️ **Armor Frontend** — [Live Demo](https://armor-frontend-kappa.vercel.app)
 - 💼 **Personal Portfolio** — *Building in progress...*
 
 ---
