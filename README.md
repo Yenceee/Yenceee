@@ -12,11 +12,11 @@
 
 <br />
 
-<!-- DUAL VISUAL ANIMATION SHOWCASE (WORKING DIRECT GIFS) -->
+<!-- DUAL VISUAL ANIMATION SHOWCASE (GUARANTEED WORKING GIFS) -->
 <p align="center">
-  <img src="https://c.tenor.com/E3E-RjX9C4MAAAAC/tenor.gif" width="48%" height="250px" style="border-radius: 10px; object-fit: cover;" />
+  <img src="https://raw.githubusercontent.com/saadeghi/files/main/solo-leveling.gif" width="48%" height="240px" style="border-radius: 10px; object-fit: cover;" />
   &nbsp;
-  <img src="https://c.tenor.com/R3U-X49S36IAAAAC/tenor.gif" width="48%" height="250px" style="border-radius: 10px; object-fit: cover;" />
+  <img src="https://raw.githubusercontent.com/saadeghi/files/main/sasuke.gif" width="48%" height="240px" style="border-radius: 10px; object-fit: cover;" />
 </p>
 
 <br />
