@@ -1,44 +1,60 @@
 <div align="center">
 
-  <!-- Animated Dynamic Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:2a1b4e,100:6e40c9&height=220&section=header&text=Hi,%20I'm%20Larence%20Pinto%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
+  <!-- Interactive Top Wave Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,11,12,13,14&height=180&section=header&text=✦%20LARENCE%20PINTO%20✦&fontSize=38&fontColor=ffffff&fontAlignY=35&animation=twinkle" width="100%" />
 
-  <!-- Animated Typing Subtitle -->
+  <!-- Animated Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=9D4EDD&center=true&vcenter=true&width=600&lines=A+UI%2FUX+DESIGNER+AND+FRONTEND+DEVELOPER;Crafting+Pixel-Perfect+Interfaces;Translating+Figma+into+Clean+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=800&color=F75C03&center=true&vcenter=true&width=500&lines=UI%2FUX+Designer+%2B+Frontend+Dev;Designing+in+Figma+%E2%80%A2+Coding+in+React;Transforming+Pixels+into+Live+Interfaces" alt="Typing SVG" />
   </a>
 
-  <br /><br />
+  <br />
 
-  <!-- Interactive/Animated Tech Floating Icons -->
+  <!-- Fun Animated Floating Icons Badge -->
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=figma,react,tailwind,vercel,js,github&theme=dark" alt="My Skills" />
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=figma,react,tailwind,js,html,css,vscode,vercel,github,git&perline=10" />
+    </a>
   </p>
 
 </div>
 
-<br />
+---
+
+### 🎨 **UI/UX & DESIGN TOOLKIT**
+
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>✨ <b>Design & Systems</b></h4>
+      <p>
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+        <img src="https://img.shields.io/badge/Wireframing-000000?style=for-the-badge&logo=figma&logoColor=white" />
+        <br />
+        <img src="https://img.shields.io/badge/Design_Systems-FF7262?style=for-the-badge&logo=figma&logoColor=white" />
+        <img src="https://img.shields.io/badge/UX_Research-0055FF?style=for-the-badge&logo=google&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚡ <b>Frontend Engineering</b></h4>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+        <br />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<br />
-
-### 🎨 **Creative Tech Stack**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-</p>
-
-<br />
-
-### 🚀 **Ongoing Project**
+### 🕹️ **CURRENT MISSION / BUILDING**
 
 ```text
-┌────────────────────────────────────────────────────────────────────────┐
-│ 📁 Personal Figma Portfolio Website                                    │
-│ ⏳ Status: Building Next.js & Tailwind components... [ ▓▓▓▓▓▓░░░░ ] 60%│
-└────────────────────────────────────────────────────────────────────────┘
+ 🚀 [PROJECT STATUS] ✦ Personal Figma Portfolio Site ✦
+ ─────────────────────────────────────────────────────────────────
+  • Design Phase:   [████████████████████] 100% (Figma Ready)
+  • Code Setup:     [████████████░░░░░░░░]  60% (Next.js + Tailwind)
+  • Deployment:     [░░░░░░░░░░░░░░░░░░░░]   0% (Pending Vercel Push)
