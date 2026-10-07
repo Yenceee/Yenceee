@@ -23,17 +23,7 @@
       </td>
     </tr>
   </table>
-<!-- RESUME LINK BUTTON -->
-<!-- RESUME LINK BUTTONS -->
-<p align="center">
-  <a href="https://github.com/Yenceee/Yenceee/blob/main/Larence_Pinto_Resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/📄_View_Resume-FF2E55?style=for-the-badge&logoColor=white" alt="View Resume" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://raw.githubusercontent.com/Yenceee/Yenceee/main/Larence_Pinto_Resume.pdf" download>
-    <img src="https://img.shields.io/badge/📥_Download_Resume-00D2FF?style=for-the-badge&logoColor=black" alt="Download Resume" />
-  </a>
-</p>
+
   <br />
 
   <!-- FULL WIDTH TECH STACK GRID -->
