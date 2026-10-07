@@ -1,11 +1,11 @@
 <div align="center">
 
-  <!-- BLOOD MOON X SHADOW MONARCH BANNER (DARK MONOCHROME TEXT) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05020A,25:3B0764,50:8B0000,75:0055B3,100:05020A&height=200&section=header&text=LARENCE%20PINTO&fontSize=42&fontColor=0f0f15&stroke=888888&strokeWidth=1.5&fontAlignY=38" width="100%" />
+  <!-- BLOOD MOON X SHADOW MONARCH BANNER (MONOCHROME GRADIENT BLACK TEXT) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05020A,25:3B0764,50:8B0000,75:0055B3,100:05020A&height=200&section=header&text=LARENCE%20PINTO&fontSize=42&fontColor=111116&stroke=777777&strokeWidth=1.5&fontAlignY=38" width="100%" />
 
-  <!-- DYNAMIC NEON TYPING SYSTEM NOTIFICATION -->
+  <!-- DYNAMIC NEON TYPING SYSTEM NOTIFICATION (YELLOW WITH BLACK BORDER) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF2E55&center=true&vcenter=true&width=700&lines=%5BSYSTEM+NOTIFICATION%3A+SHADOW+MONARCH+AWAKENED%5D;UI%2FUX+Design+Architect+%E2%80%A2+Frontend+Developer;Translating+Complex+Figma+Canvas+into+Clean+Web+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FACC15&stroke=000000&strokeWidth=1&center=true&vcenter=true&width=700&lines=%5BSYSTEM+NOTIFICATION%3A+SHADOW+MONARCH+AWAKENED%5D;UI%2FUX+Design+Architect+%E2%80%A2+Frontend+Developer;Translating+Complex+Figma+Canvas+into+Clean+Web+Code" alt="Typing SVG" />
   </a>
 
   <br /><br />
@@ -88,6 +88,6 @@
   <br />
 
   <sub><i>"I am the Monarch of Shadows... domain expansion across Figma & Code."</i></sub><br />
-  <sub>✦ Designed & Engineered by <b>Larence Pinto</b> • Deployed on <b>Vercel</b> 🔮</sub>
+  <sub>Designed & Engineered by <b>Larence Pinto</b> • Deployed on <b>Vercel</b> 🔮</sub>
 
 </div>
