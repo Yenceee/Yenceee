@@ -23,7 +23,12 @@
       </td>
     </tr>
   </table>
-
+<!-- RESUME LINK BUTTON -->
+<div align="center">
+  <a href="YOUR_GOOGLE_DRIVE_LINK_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/📄_VIEW_OFFICIAL_RESUME-00D2FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</div>
   <br />
 
   <!-- FULL WIDTH TECH STACK GRID -->
