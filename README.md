@@ -1,19 +1,28 @@
 <div align="center">
 
-  <!-- Interactive Top Wave Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,11,12,13,14&height=180&section=header&text=✦%20LARENCE%20PINTO%20✦&fontSize=38&fontColor=ffffff&fontAlignY=35&animation=twinkle" width="100%" />
+  <!-- TOP HEADER BANNER: SHADOW MONARCH X UCHIHA AESTHETIC -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:090A0F,30:1F0933,70:4A125E,100:090A0F&height=220&section=header&text=⚡%20LARENCE%20PINTO%20⚡&fontSize=42&fontColor=A855F7&fontAlignY=35&animation=twinkle" width="100%" alt="Header Banner" />
 
-  <!-- Animated Typing SVG -->
+  <!-- DYNAMIC TYPING SVG: SYSTEM NOTIFICATION -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=800&color=F75C03&center=true&vcenter=true&width=500&lines=UI%2FUX+Designer+%2B+Frontend+Dev;Designing+in+Figma+%E2%80%A2+Coding+in+React;Transforming+Pixels+into+Live+Interfaces" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=C084FC&center=true&vcenter=true&width=600&lines=%5BSYSTEM+ALERT%3A+SHADOW+MONARCH+AWAKENED%5D;UI%2FUX+Designer+%7C+Frontend+Architect;Mastering+Figma+%E2%80%A2+Wielding+React+%26+Tailwind;%22ARISE...%22+Translating+Designs+into+Code" alt="System Alert Typing SVG" />
   </a>
+
+  <br /><br />
+
+  <!-- VISUAL GIF: SHADOW & CHIDORI AESTHETIC -->
+  <p align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW53bDF6cnN2Nndua3M3cWRqd254cjAwOGJpNmJldGNuZmd0aTB6NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHy9iEQ8sPdcY/giphy.gif" width="48%" height="190px" alt="Sasuke Chidori Glow" style="border-radius: 8px; object-fit: cover;" />
+    &nbsp;
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9ocmxuMjF1Yjludnh2ZHAxN2c5Y3Nvd2k2eGlxZnFiOTlhYWptciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPsU8LWMvCWasA8/giphy.gif" width="48%" height="190px" alt="Solo Leveling System Aesthetic" style="border-radius: 8px; object-fit: cover;" />
+  </p>
 
   <br />
 
-  <!-- Fun Animated Floating Icons Badge -->
+  <!-- FLOATING TECH ICONS WITH DARK THEME -->
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=figma,react,tailwind,js,html,css,vscode,vercel,github,git&perline=10" />
+      <img src="https://skillicons.dev/icons?i=figma,react,tailwind,js,html,css,vscode,vercel,github,git&theme=dark" />
     </a>
   </p>
 
@@ -21,40 +30,13 @@
 
 ---
 
-### 🎨 **UI/UX & DESIGN TOOLKIT**
-
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>✨ <b>Design & Systems</b></h4>
-      <p>
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-        <img src="https://img.shields.io/badge/Wireframing-000000?style=for-the-badge&logo=figma&logoColor=white" />
-        <br />
-        <img src="https://img.shields.io/badge/Design_Systems-FF7262?style=for-the-badge&logo=figma&logoColor=white" />
-        <img src="https://img.shields.io/badge/UX_Research-0055FF?style=for-the-badge&logo=google&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚡ <b>Frontend Engineering</b></h4>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-        <br />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🕹️ **CURRENT MISSION / BUILDING**
+### 👁️ **QUEST STATUS & PLAYER STATS**
 
 ```text
- 🚀 [PROJECT STATUS] ✦ Personal Figma Portfolio Site ✦
- ─────────────────────────────────────────────────────────────────
-  • Design Phase:   [████████████████████] 100% (Figma Ready)
-  • Code Setup:     [████████████░░░░░░░░]  60% (Next.js + Tailwind)
-  • Deployment:     [░░░░░░░░░░░░░░░░░░░░]   0% (Pending Vercel Push)
+ [PLAYER: LARENCE PINTO] ─── [TITLE: SHADOW DESIGNER] ─── [CLASS: UI/UX FRONTEND]
+ ─────────────────────────────────────────────────────────────────────────────────
+  HP  [████████████████████████████████] 100% | MP  [████████████████████████████████] 100%
+  
+  • FIGMA DESIGN SYSTEM     : [LEVEL 85] ──► Auto-Layout, Tokens, Micro-Interactions
+  • TAILWIND & REACT CODE   : [LEVEL 80] ──► Component Specs, Dynamic UI Architecture
+  • SHADOW ABILITY          : [ARISE]    ──► Summoning Figma Designs into Live Web Code
