@@ -12,19 +12,12 @@
 
 <br />
 
-<!-- DUAL VISUAL ANIMATION SHOWCASE (NO DEAD SPACE) -->
-<table border="0" width="100%" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="50%" align="center" style="background-color: #0d0714; border: 1px solid #6b21a8; border-radius: 12px; padding: 10px;">
-      <p align="center"><b>👁️ MANGEKYOU SHARINGAN / CHIDORI</b></p>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW53bDF6cnN2Nndua3M3cWRqd254cjAwOGJpNmJldGNuZmd0aTB6NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHy9iEQ8sPdcY/giphy.gif" width="100%" height="220px" style="border-radius: 8px; object-fit: cover;" />
-    </td>
-    <td width="50%" align="center" style="background-color: #0d0714; border: 1px solid #6b21a8; border-radius: 12px; padding: 10px;">
-      <p align="center"><b>🔮 SHADOW MONARCH SYSTEM UI</b></p>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9ocmxuMjF1Yjludnh2ZHAxN2c5Y3Nvd2k2eGlxZnFiOTlhYWptciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPsU8LWMvCWasA8/giphy.gif" width="100%" height="220px" style="border-radius: 8px; object-fit: cover;" />
-    </td>
-  </tr>
-</table>
+<!-- DUAL VISUAL ANIMATION SHOWCASE (WORKING DIRECT GIFS) -->
+<p align="center">
+  <img src="https://c.tenor.com/E3E-RjX9C4MAAAAC/tenor.gif" width="48%" height="250px" style="border-radius: 10px; object-fit: cover;" />
+  &nbsp;
+  <img src="https://c.tenor.com/R3U-X49S36IAAAAC/tenor.gif" width="48%" height="250px" style="border-radius: 10px; object-fit: cover;" />
+</p>
 
 <br />
 
