@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- ANIMATED COLOR GRADIENT BANNER WITH MONOCHROME GRADIENT TEXT -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05020A,25:3B0764,50:8B0000,75:0055B3,100:05020A&height=200&section=header&text=LARENCE%20PINTO&fontSize=42&fontColor=1A1A24&stroke=CCCCCC&strokeWidth=1.8&fontAlignY=38&animation=fadeIn&customColorList=0:05020A,25:3B0764,50:8B0000,75:0055B3,100:05020A" width="100%" />
+<!-- Interactive Top Wave Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,11,12,13,14&height=180&section=header&text=✦%20LARENCE%20PINTO%20✦&fontSize=38&fontColor=ffffff&fontAlignY=35&animation=twinkle" width="100%" />
 
   <!-- DYNAMIC NEON TYPING SYSTEM NOTIFICATION (YELLOW WITH BLACK BORDER) -->
   <a href="https://git.io/typing-svg">
