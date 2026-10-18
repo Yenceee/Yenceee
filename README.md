@@ -31,11 +31,13 @@
     <tr>
       <td align="center">
         <h4>📜 PLAYER BIO</h4>
-        <p>
-          User-focused <b>UI/UX Designer</b>, <b>Graphic Artist</b>, and <b>Virtual Assistant</b> based in Quezon City, Philippines.
+                <p>
+          User-focused <b>UI/UX Designer</b>, <b>Frontend Developer</b>, <b>Graphic Artist</b>, and <b>Virtual Assistant</b> based in Quezon City, Philippines.
           I design web and mobile apps, build interactive Figma prototypes, keep design systems consistent,
-          and support client communication and admin workflows. My frontend background lets me work closely with
-          dev teams to ship interfaces that are intuitive and technically feasible.
+          and turn designs into responsive code with React, Next.js, and Tailwind CSS.
+          I also have working backend experience: API integration, access-control modules, and database fundamentals.
+          I work closely with dev teams to ship interfaces that are intuitive and technically feasible,
+          and I support client communication and admin workflows.
         </p>
         <p><b>📍</b> Quezon City, Metro Manila, PH &nbsp;•&nbsp; <b>🎓</b> BSIT @ Quezon City University (Expected June 2027)</p>
       </td>
